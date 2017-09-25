@@ -1,9 +1,10 @@
 # Site settings
-title: BY Blog
+title: 七界刀君
 SEOTitle: 七界刀君 | BY bao.moe
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
+email: h@bao.moe
+description: "Know your strengths, use them wisely. 
+and one man can be worth 10000."
 keyword: "bao.moe,七界刀君, MR, AR, VR, 人工智能"
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
